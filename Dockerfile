@@ -44,7 +44,7 @@ COPY . /app/
 
 WORKDIR /app
 
-RUN /bin/miniapp-cli-alpine
+RUN npm install
 
 RUN /bin/miniapp-cli-alpine publish \
   --developer_id $DEVELOPER_ID \

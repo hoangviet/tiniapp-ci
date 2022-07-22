@@ -1,4 +1,4 @@
-NOTE: the repo move to [https://github.com/tikivn/tiniapp-ci](https://github.com/tikivn/tiniapp-ci)
+# NOTE: the repo move to [https://github.com/tikivn/tiniapp-ci](https://github.com/tikivn/tiniapp-ci)
 
 # Continuous Integration (CI) configuration examples for TiniApp
 

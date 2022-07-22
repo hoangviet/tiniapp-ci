@@ -1,3 +1,5 @@
+NOTE: the repo move to [https://github.com/tikivn/tiniapp-ci](https://github.com/tikivn/tiniapp-ci)
+
 # Continuous Integration (CI) configuration examples for TiniApp
 
 This repo. makes it easy to run tests and publish your app to Tini Console.
